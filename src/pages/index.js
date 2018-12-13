@@ -39,7 +39,6 @@ export const pageQuery = graphql`
             author
             path
             bio
-            tech
           }
         }
       }
