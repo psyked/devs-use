@@ -47,7 +47,14 @@ const Layout = ({ children }) => (
               An open source tool to share what tools, software and hardware you
               use.
             </h3>
-            <button>Contribute your setup</button>
+            <button>
+              <a
+                href="https://github.com/boyney123/devs-use/blob/master/CONTRIBUTING.md#adding-your-configuration-to-devs-use"
+                target="_blank"
+              >
+                Contribute your setup
+              </a>
+            </button>
           </div>
         </section>
         <div

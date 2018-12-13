@@ -678,6 +678,11 @@ button {
   padding: 1em;
 }
 
+button a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .nav-footer {
   background: #402060;
   border: none;

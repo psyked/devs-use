@@ -18,20 +18,20 @@ In particular, if you have a large PR you want to send our way, it may make sens
 
 ## Adding your configuration to devs-use
 
-You can add your app to the website by creating a [new file md in `developers directory`](random) with this template:
+You can add your app to the website by creating a [new file md in `/developers directory`](https://github.com/boyney123/devs-use/new/master?filename=src/developers/your-name.md) with this template:
 
 ```m
 ---
 // Path to your url
-path: '/david-cook'
+path: '/custom-path'
 // You
-author: 'Dave Cook'
+author: 'Your name'
 // Your github url
-github: 'dcook-net'
+github: 'Github Account'
 // Your twitter name
-twitter: 'dcook_net'
+twitter: 'Twitter Account'
 //bio about you
-bio: 'Software Engineer, snowboarder, Archer and tired farther...does not wear tights for any of these things!'
+bio: 'I am an engineer. I like Cats.'
 ---
 
 # Tools that I'm using:
