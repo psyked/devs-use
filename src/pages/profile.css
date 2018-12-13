@@ -1,0 +1,17 @@
+.profile {
+  width: 100px;
+  width: 100%;
+  cursor: pointer;
+  border: 1px solid black;
+  background: #fc437f00;
+  border-color: #e6cef3;
+  border-radius: 5px;
+  float: left;
+  margin: 10px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.profile:hover {
+  background: #fafafa;
+}
