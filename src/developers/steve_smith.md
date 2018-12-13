@@ -10,6 +10,8 @@ bio: 'Speaker, Author, and Software Craftsman. Microsoft MVP. Available for trai
 
 # Tools Used
 
+From [ardalis.com/tools-used ](ardalis.com/tools-used)
+
 Here’s a quick list of the tools I use and generally recommend. Subject to change at any time. Some links are affiliate links – using them helps to support this site. Thanks!
 
 #Blog
