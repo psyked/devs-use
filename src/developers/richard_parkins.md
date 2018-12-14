@@ -1,5 +1,5 @@
 ---
-path: '/richard_parkins'
+path: '/richard-parkins'
 author: 'Richard Parkins'
 github: 'rgparkins'
 twitter: 'rgparkins'
